@@ -5,7 +5,7 @@ from Moccacino import Moccacino
 from ExtraForte import ExtraForte
 from Gourmet import Gourmet
 
-class cafeFactory:
+class CafeFactory:
     #    Cria objetos de café com base no tipo escolhido.
 
    @staticmethod
